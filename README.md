@@ -10,7 +10,7 @@ Aquaverse was founded with the vision of creating a comprehensive ecosystem for 
 
 ### Our Offerings
 
-- **Aquaverse Mobile App: ** An all-in-one app for tracking water parameters, managing aquarium maintenance, and discovering new species of fish and plants.
+- **Aquaverse Mobile App:** An all-in-one app for tracking water parameters, managing aquarium maintenance, and discovering new species of fish and plants.
 - **Aquaverse Marketplace:** Buy, sell, and trade aquarium-related products with other enthusiasts in your area.
 - **Community Support:** Connect with other aquarium hobbyists, share your experiences, and get advice from experts.
 
