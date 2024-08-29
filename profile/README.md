@@ -8,13 +8,7 @@ Aquaverse is a community-driven platform dedicated to aquarium hobbyists of all 
 
 Aquaverse was founded with the vision of creating a comprehensive ecosystem for aquarium enthusiasts. We understand the unique challenges that come with maintaining a thriving aquatic environment, and we're here to provide solutions that are both intuitive and powerful.
 
-### Our Offerings
-
-- **Aquaverse Mobile App:** An all-in-one app for tracking water parameters, managing aquarium maintenance, and discovering new species of fish and plants.
-- **Aquaverse Marketplace:** Buy, sell, and trade aquarium-related products with other enthusiasts in your area.
-- **Community Support:** Connect with other aquarium hobbyists, share your experiences, and get advice from experts.
-
-### Our Mission
+## Our Mission
 
 To empower aquarium hobbyists around the world by providing them with the tools, knowledge, and community they need to create and maintain beautiful, thriving aquariums.
 
